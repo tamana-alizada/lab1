@@ -1,2 +1,2 @@
 # lab1
-w3school exercises
+w3schools exercises
