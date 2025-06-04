@@ -1,2 +1,2 @@
-# lab1
+# labs
 w3schools exercises
